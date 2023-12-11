@@ -3,4 +3,4 @@ Repository for the posters and slides that I presented for the analysis of the e
 
 File "Poster" is the poster made for Biomedical Engineering Society for Circulation 2022 Summer Conference, Jeju, South Korea
 
-File "Presentation Slides" is slides made for lab meeting.
+File "CFD PPT Slides" is slides made for lab meeting.
